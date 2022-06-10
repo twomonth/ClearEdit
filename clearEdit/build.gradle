@@ -13,7 +13,7 @@ afterEvaluate {
                 // Replace with your own group ID.
                 groupId 'com.twomonth'
                 // Replace with the name of your library
-                artifactId 'clearedit'
+                artifactId 'clearedit-debug'
                 version '1.0.0'
             }
 
@@ -22,7 +22,7 @@ afterEvaluate {
                 // Replace with your own group ID.
                 groupId 'com.twomonth'
                 // Replace with the name of your library
-                artifactId 'clearedit'
+                artifactId 'clearedit-release'
                 version '1.0.0'
             }
         }
